@@ -1,0 +1,45 @@
+_repo: Helen-of-Troy-and-Rose_74949
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Osborne, Norman J. L. (Norman James Lionel)
+    aliases:
+    - Osborn, Norman
+    - Osborne, Norman James Lionel
+    birthdate: 1878
+    deathdate: 1965
+    gutenberg_agent_id: '57742'
+    url: http://www.gutenberg.org/2009/agents/57742
+creator:
+  author:
+    agent_name: Bottome, Phyllis
+    alias: Forbes Dennis, Phyllis
+    birthdate: 1882
+    deathdate: 1963
+    gutenberg_agent_id: '4742'
+    url: http://www.gutenberg.org/2009/agents/4742
+    wikipedia: https://en.wikipedia.org/wiki/Phyllis_Bottome
+description: ''
+gutenberg_issued: '2024-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74949'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/nyp.33433074929237
+pgterms:marc905: 20200826124626bottome
+pgterms:marc906: '1918'
+production_note: Mardi Desjardins and the online Distributed Proofreaders Canada team
+  at https://www.pgdpcanada.net. This ebook was produced from files generously made
+  available by HathiTrust Digital Library.
+publication_note: '  $aNew York :$bThe Century Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Spouses -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Helen of Troy -- Rose.
+title: Helen of Troy; and Rose
+url: http://www.gutenberg.org/ebooks/74949
