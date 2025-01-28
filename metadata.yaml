@@ -10,6 +10,9 @@ contributor:
     deathdate: 1965
     gutenberg_agent_id: '57742'
     url: http://www.gutenberg.org/2009/agents/57742
+covers:
+- cover_type: archival
+  image_path: 74949-h/images/cover.jpg
 creator:
   author:
     agent_name: Bottome, Phyllis
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4742
     wikipedia: https://en.wikipedia.org/wiki/Phyllis_Bottome
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74949#Helen-of-Troy-and-Rose
 gutenberg_issued: '2024-12-20'
 gutenberg_type: Text
 identifiers:
